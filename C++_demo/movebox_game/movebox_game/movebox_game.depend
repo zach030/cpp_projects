@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573377126 source:d:\c++test\movebox_game\movebox_game\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
