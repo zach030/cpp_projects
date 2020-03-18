@@ -1,0 +1,3 @@
+﻿  demo.cpp
+d:\allprojects\c++_essential_projects\p2_procrdural_programming\procedural_program\procedural_program\demo.cpp(56): warning C4804: “%”: 在操作中使用类型“bool”不安全
+  Procedural_Program.vcxproj -> D:\AllProjects\C++_Essential_Projects\P2_Procrdural_Programming\Procedural_Program\Debug\Procedural_Program.exe
